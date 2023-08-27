@@ -7,3 +7,9 @@ The severity of a recession refers to the extent to which the economy contracts 
 
 # Calculate dynamic pricing strategy for rides trips.
  In a dynamic pricing strategy, the aim is to maximize revenue and profitability by pricing items at the right level that balances supply and demand dynamics. It allows businesses to adjust prices dynamically based on factors like time of day, day of the week, customer segments, inventory levels, seasonal fluctuations, competitor pricing, and market conditions.
+
+ # Dashboard of insights on Oil Consumption worldwide
+
+ 
+
+ # If you are unable to view a jupyter notebook from the files above. Then use the online viewer https://nbviewer.jupyter.org/ .
