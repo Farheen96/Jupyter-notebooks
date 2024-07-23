@@ -10,6 +10,9 @@ The severity of a recession refers to the extent to which the economy contracts 
 
  # Insights on Oil Consumption worldwide
 
+ # Price Optimization using python 
+   The aim in a price optimization project is to find the most optimal price point for a product or service. 
+
  
 
  # If you are unable to view a jupyter notebook from the files above. Then use the online viewer https://nbviewer.jupyter.org/ .
