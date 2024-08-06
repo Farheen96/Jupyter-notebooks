@@ -1,4 +1,6 @@
 ## Jupyter-notebooks:
+# NOTE -  If you are unable to view a jupyter notebook from the files above. Then use the online viewer https://nbviewer.jupyter.org/ .
+
 
 # 1. A/B Testing of themes using a dataset from :
  https://statso.io/light-theme-and-dark-theme-case-study/
@@ -54,4 +56,4 @@ Details: Focus on data cleaning, transformation, and integration with databases 
 Technologies: Python, Pandas, SQL, Apache Airflow.
  
 
- # If you are unable to view a jupyter notebook from the files above. Then use the online viewer https://nbviewer.jupyter.org/ .
+ 
